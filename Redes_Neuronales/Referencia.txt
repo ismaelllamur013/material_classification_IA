@@ -1,0 +1,5 @@
+Proyecto 1: Clasificador de color y materiales
+Proyecto 2: Clasificador de manchas en tela
+Proyecto 3: Medidor de distancia
+Proyecto 4: Identificador de liquidos
+Proyecto 5: Clasificador de cerveza y porcentaje de amargor
